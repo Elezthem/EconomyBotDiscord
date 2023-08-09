@@ -1,0 +1,2 @@
+# EconomyBotDiscord
+Discord bot economy
